@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>RevitAPI</Name>
+    <Assembly>"\\nut\home\s.hramcov\Desktop\RevitAPITraining\TOUCH.dll"</Assembly>
+    <AddInId>B3A3B79C-95A5-4BC4-99AD-C2AE398E53C2</AddInId>
+    <FullClassName>TOUCH.Main</FullClassName>
+    <VendorId>TOUCH</VendorId>
+  </AddIn>
+</RevitAddIns>
